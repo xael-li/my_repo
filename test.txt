@@ -1,4 +1,0 @@
-hello git
-this is my second git test
-add new line
-welcom to git study
